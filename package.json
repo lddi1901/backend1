@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodeman server.js"
   },
   "author": "LeDinhDuy",
   "license": "ISC",
@@ -18,6 +19,7 @@
     "eslint-config-prettier": "^10.0.1",
     "eslint-plugin-react": "^7.37.4",
     "globals": "^16.0.0",
+    "nodemon": "^3.1.9",
     "prettier": "^3.5.2"
   }
 }
